@@ -1,7 +1,7 @@
 # soil-plant-model
 This repository contains description of a model that couples stomatal conductance, plant hydraulics, ABA production, and soil water balance to quantify plant responses during a designated dry period. Specifically, the responses are quantified using: 
-(1) hydraulic risk
-(2) net cumulative carbon assimilation
+(1) hydraulic risk, and 
+(2) net cumulative carbon assimilation. 
 The model does not allow for xylem refilling. For more details of model implementation, please refer to: 
 
 Feng et al. (2018), The ecohydrological context of drought and classification of plant responses, Ecology Letters.
